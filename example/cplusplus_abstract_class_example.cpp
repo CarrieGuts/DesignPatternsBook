@@ -2,6 +2,10 @@
 
 using namespace std;
 
+/*
+ * Author: Sanggyu Oh
+ */
+
 // Base class
 class Shape
 {
